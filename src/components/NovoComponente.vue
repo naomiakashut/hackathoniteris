@@ -1,6 +1,6 @@
 <template>
   <div class="contador">
-    <h1>Contador: {{ i }}</h1>
+    <h1>Contador da Ná: {{ i }}</h1>
    <button @click="diminuir">-</button><button @click="aumentar">+</button>
   </div>
 </template>
